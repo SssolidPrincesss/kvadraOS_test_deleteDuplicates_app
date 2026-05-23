@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DeleteDuplicateApp</string>
+    <string name="Action_text_message">Нажмите на кнопку, чтобы удалить дубликаты</string>
+    <string name="btn_delete_duplicates">Удалить дубликаты контактов</string>
+    <string name="Contacts_deleted">Повторяющиеся контакты удалены успешно</string>
+    <string name="OnErrorMistake">Произошла ошибка: %1$s</string>
+    <string name="Cant_found_contact">Повторяющиеся контакты не найдены</string>
+    <string name="servis_isnot_done">Сервис ещё не готов</string>
+    <string name="duplicate_deleting">Идёт удаление дубликатов...</string>
+    <string name="server_connection_error">Ошибка связи с сервисом: %1$s</string>
+    <string name="permissions_received">Разрешения получены</string>
+    <string name="noworking_without_perm">Без разрешений работа невозможна</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DeleteDuplicateApp</string>
+    <string name="Action_text_message">Press the button to delete duplicates</string>
+    <string name="btn_delete_duplicates">Delete duplicate contacts</string>
+    <string name="Contacts_deleted">Duplicate contacts deleted successfully</string>
+    <string name="OnErrorMistake">An error occurred: %1$s</string>
+    <string name="Cant_found_contact">No duplicate contacts found</string>
+    <string name="servis_isnot_done">Service is not ready yet</string>
+    <string name="duplicate_deleting">Deleting duplicates…</string>
+    <string name="server_connection_error">Service connection error: %1$s</string>
+    <string name="permissions_received">Permissions granted</string>
+    <string name="noworking_without_perm">Cannot work without permissions</string>
+</resources>
